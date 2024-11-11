@@ -1,2 +1,4 @@
 .DS_Store
-/ipynb/open_secrets/.ipynb_checkpoints
+.ipynb_checkpoints
+/tests.ipynb
+*.pdf

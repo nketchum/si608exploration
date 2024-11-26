@@ -11,26 +11,26 @@
 - 527 Contribution Data: [rcpts527.csv](../data/open_secrets/527/rcpts527.csv)
 <br>https://www.opensecrets.org/resources/datadictionary/Data%20Dictionary%20527%20Receipts.htm
 
-### Campaign Finance '22 ###
+### Campaign Finance 18 ###
 
-- Candidates: [cands22.csv](../data/open_secrets/CampaignFin22/cands22.csv)
+- Candidates: [cands18.csv](../data/open_secrets/CampaignFin18/cands18.csv)
 <br>https://www.opensecrets.org/resources/datadictionary/Data%20Dictionary%20Candidates%20Data.htm
 
-- Committees: [cmtes22.csv](../data/open_secrets/CampaignFin22/cmtes22.csv)
+- Committees: [cmtes18.csv](../data/open_secrets/CampaignFin18/cmtes18.csv)
 <br>https://www.opensecrets.org/resources/datadictionary/Data%20Dictionary%20for%20Cmtes.htm
 
-- PAC to PAC Data: [pac_other22.csv](../data/open_secrets/CampaignFin22/pac_other22.csv)
+- PAC to PAC Data: [pac_other18.csv](../data/open_secrets/CampaignFin18/pac_other18.csv)
 <br>https://www.opensecrets.org/resources/datadictionary/Data%20Dictionary%20PAC%20to%20PAC%20Data.htm
 
-- PACs to Candidates: [pacs22.csv](../data/open_secrets/CampaignFin22/pacs22.csv)
+- PACs to Candidates: [pacs18.csv](../data/open_secrets/CampaignFin18/pacs18.csv)
 <br>https://www.opensecrets.org/resources/datadictionary/Data%20Dictionary%20for%20PAC%20to%20Cands%20Data.htm
 
-- Individual Contribution Data: [indivs22.csv](../data/open_secrets/CampaignFin22/indivs22.csv)
+- Individual Contribution Data: [indivs18.csv](../data/open_secrets/CampaignFin18/indivs18.csv)
 <br>https://www.opensecrets.org/resources/datadictionary/Data%20Dictionary%20for%20Individual%20Contribution%20Data.htm
 
-### Expend22 ###
+### Expend18 ###
 
-- Expenditure Data: [expends22.csv](../data/open_secrets/Expend22/expends22.csv)
+- Expenditure Data: [expends18.csv](../data/open_secrets/Expend22/expends18.csv)
 <br>https://www.opensecrets.org/resources/datadictionary/Data%20Dictionary%20Expenditures.htm
 
 ### Lobbying ###

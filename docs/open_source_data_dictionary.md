@@ -30,7 +30,7 @@
 
 ### Expend18 ###
 
-- Expenditure Data: [expends18.csv](../data/open_secrets/Expend22/expends18.csv)
+- Expenditure Data: [expends18.csv](../data/open_secrets/Expend18/expends18.csv)
 <br>https://www.opensecrets.org/resources/datadictionary/Data%20Dictionary%20Expenditures.htm
 
 ### Lobbying ###
